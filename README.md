@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cristyanyuri18
+- 👋 Hi, I’m @Cristyan Yuri
 - 👀 I’m interested in to be Front-end
 - 🌱 I’m currently learning Html, Css and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I try to collaborate with my knowledge acquired during this period of studies and I have been looking for even more knowledge about HTML, CSS and JAVASCRIPT
+- 📫 How to reach me How to reach me, LinkedIn: https://www.linkedin.com/in/cristyan-yuri-598451202/
 
 <!---
 cristyanyuri18/cristyanyuri18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
