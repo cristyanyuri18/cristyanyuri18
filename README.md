@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cristyanyuri18
 - 👀 I’m interested in to be Front-end
-- 🌱 I’m currently learning Html, Css it is JavaScript
+- 🌱 I’m currently learning Html, Css and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
