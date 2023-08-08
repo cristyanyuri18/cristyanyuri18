@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cristyan Yuri
-- 👀 I’m interested in to be Front-end
+- 👀 I’m interested in to be Front-end Jr
 - 🌱 I’m currently learning Html, Css and JavaScript
 - 💞️ I try to collaborate with my knowledge acquired during this period of studies and I have been looking for even more knowledge about HTML, CSS and JAVASCRIPT
 - 📫 How to reach me, LinkedIn: https://www.linkedin.com/in/cristyanyuri
